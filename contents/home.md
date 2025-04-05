@@ -1,6 +1,6 @@
 
 
-[![wyt-cyber](https://img.shields.io/badge/wyt-cyber-github-blue?logo=github)](https://github.com/wyt-cyber)
+[![wyt-cyber](https://img.shields.io/badge/wytcyber-github-blue?logo=github)](https://github.com/wyt-cyber)
 
 目前正在东南大学网络空间安全学院学习,已保送到北京航空航天大学攻读硕士学位.
 
