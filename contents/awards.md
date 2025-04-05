@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 东南大学2021-2022三好学生 2022.9
+- 东南大学2021-2022校长奖学金 2022.10
+- 东南大学2021-2022至善学子奖学金 2022.11
+- 东南大学2022-2023优秀共青团员 2023.4
+- 东南大学2022-2023三好学生 2023.9
+- 东南大学2022-2023至善学子奖学金 2023.11
+- 东南大学2023-2024优秀共青团员 2024.4
+- 江苏省三好学生 2024.5
+- 东南大学华为奖学金 2024.5
+- 东南大学2023-2024三好学生 2024.9
+- 本科生国家奖学金 2024.10
+- 东南大学2023-2024至善学子奖学金 2024.11
+- 东南大学清晖创新奖学金 2025.4

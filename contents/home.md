@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wyt-cyber](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/wyt-cyber)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+目前正在东南大学网络空间安全学院学习,已保送到北京航空航天大学攻读硕士学位.
 
 #### Email
-sli[at]cumt.edu.cn
+2976755719[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2021-2025 东南大学网络空间安全学院本科
+2025-2028 北京航空航天大学网络空间安全学院硕士
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+通信安全等
 
