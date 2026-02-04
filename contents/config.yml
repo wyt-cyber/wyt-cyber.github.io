@@ -3,3 +3,13 @@ page-top-title: Wang yuetong
 top-section-bg-text: Cyber Security
 home-subtitle: Wang yuetong&ensp;|&ensp;王悦童
 copyright-text: '&copy; Wang yuetong 2025-至今. All Rights Reserved.'
+
+menuMapping:
+  - title: Home
+    file: home.md
+  - title: Publications
+    file: publications.md
+  - title: Awards
+    file: awards.md
+  - title: 研一总结
+    file: m1_summary.md
